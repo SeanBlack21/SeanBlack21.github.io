@@ -1,0 +1,16 @@
+input[type=text] {
+    background-color: aqua;
+
+}
+input[type=password] {
+    background-color: aqua;
+}
+.submit:hover{
+    background-color: green;
+}
+.container{
+    margin: 5px;
+    border: black;
+    border-style: solid;
+    border-radius: 5px;
+}
